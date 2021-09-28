@@ -3,7 +3,7 @@
 Contributors: bibali1980
 Donate link: http://paypal.me/bibali1980
 Theme Name: Walili
-Theme URI: http://walili.upapplications.com/
+Theme URI: https://www.simplefbautoposter.com/
 Author: Donate, Please buy me a coffee
 Author URI: http://paypal.me/bibali1980
 Description: Walili is a creative WordPress theme for saas, software, startup, mobile app, agency and related products & services. Walili it's the best way to create a dynamic, professional website in no time. Please buy me a coffee, Donation link: http://paypal.me/bibali1980
