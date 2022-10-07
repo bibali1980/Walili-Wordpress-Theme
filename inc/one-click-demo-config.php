@@ -54,7 +54,7 @@ function walili_import_files() {
       array(
   			'import_file_name'             => 'Default',
   			'categories'                   => array( 'Default' ),
-        'import_file_url'            => 'http://walili.upapplications.com/content_demo_import/content.xml',
+        'import_file_url'            => 'https://upapplications.com/walili_demo_importer/content.xml',
   			//'local_import_file'            => trailingslashit( get_template_directory() ) . 'inc/demos/Default/content.xml',
   			//'local_import_widget_file'     => trailingslashit( get_template_directory() ) . 'ocdi/widgets.json',
   			//'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'ocdi/customizer.dat',
@@ -66,13 +66,13 @@ function walili_import_files() {
   			),
   			'import_preview_image_url'     => trailingslashit( get_template_directory_uri() ).'inc/demos/Default/screenshot.png',
   			//'import_notice'                => __( 'Please waiting for a few minutes, do not close the window or refresh the page until the data is imported.', 'walili' ),
-  			'preview_url'                  => 'http://walili.upapplications.com/',
+  			'preview_url'                  => 'http://upapplications.com/',
   		),
 
       array(
         'import_file_name'             => 'Default',
         'categories'                   => array( 'Default' ),
-        'import_file_url'            => 'http://walili.upapplications.com/content_demo_import/content.xml',
+        'import_file_url'            => 'https://upapplications.com/walili_demo_importer/content.xml',
         //'local_import_file'            => trailingslashit( get_template_directory() ) . 'inc/demos/Default/content.xml',
         //'local_import_widget_file'     => trailingslashit( get_template_directory() ) . 'ocdi/widgets.json',
         //'local_import_customizer_file' => trailingslashit( get_template_directory() ) . 'ocdi/customizer.dat',
@@ -84,7 +84,7 @@ function walili_import_files() {
         ),
         'import_preview_image_url'     => trailingslashit( get_template_directory_uri() ).'inc/demos/Default/screenshot.png',
         //'import_notice'                => __( 'Please waiting for a few minutes, do not close the window or refresh the page until the data is imported.', 'walili' ),
-        'preview_url'                  => 'http://walili.upapplications.com/',
+        'preview_url'                  => 'http://upapplications.com/',
       ),
 
 
